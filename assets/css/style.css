@@ -1,0 +1,11 @@
+.signature-preview {
+  max-width: 310px !important;
+  max-height: 55px !important;
+  border: 1px solid gray;
+}
+
+#sig-canvas {
+  border: 2px dotted #cccccc;
+  border-radius: 15px;
+  cursor: crosshair;
+}
